@@ -57,6 +57,7 @@ To ensure accurate and meaningful analysis, the dataset was preprocessed with th
 
 ## 📈 Sample Visualizations
 
+[Genre distribution][https://github.com/VaishnaviNair01/Python1/blob/main/genre%20distribution.png "distribution of genre"]
 
 ---
 
