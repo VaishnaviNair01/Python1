@@ -108,7 +108,7 @@ movie-data-analysis/
 
 - **Vaishnavi Nair**  
   Mathematics and Computing Student, NIT Hamirpur  
-  Expertise: Machine Learning, Data Analysis
+  
 
 ---
 
